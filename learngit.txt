@@ -1,6 +1,0 @@
-Git is a distributed version control system.
-Git is free software.
-Git is a new software.
-Git is a strong software.
-a new line
-a new line 2
